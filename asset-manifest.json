@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react_template_deploy/static/css/main.39518aaa.css",
-    "main.js": "/react_template_deploy/static/js/main.57590e30.js",
+    "main.css": "/react_template_deploy/static/css/main.881fa376.css",
+    "main.js": "/react_template_deploy/static/js/main.140114ce.js",
     "static/media/video2.mp4": "/react_template_deploy/static/media/video2.dccb45b33221101723b1.mp4",
     "static/media/video1.mp4": "/react_template_deploy/static/media/video1.c57aaad094fcda3e06fe.mp4",
     "static/media/code.jpg": "/react_template_deploy/static/media/code.fea6cf7433b105d6e874.jpg",
@@ -12,11 +12,11 @@
     "static/media/user5.jpg": "/react_template_deploy/static/media/user5.921947eccae648403fd7.jpg",
     "static/media/user4.jpg": "/react_template_deploy/static/media/user4.b3a5b044617d336fd8f2.jpg",
     "index.html": "/react_template_deploy/index.html",
-    "main.39518aaa.css.map": "/react_template_deploy/static/css/main.39518aaa.css.map",
-    "main.57590e30.js.map": "/react_template_deploy/static/js/main.57590e30.js.map"
+    "main.881fa376.css.map": "/react_template_deploy/static/css/main.881fa376.css.map",
+    "main.140114ce.js.map": "/react_template_deploy/static/js/main.140114ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.39518aaa.css",
-    "static/js/main.57590e30.js"
+    "static/css/main.881fa376.css",
+    "static/js/main.140114ce.js"
   ]
 }

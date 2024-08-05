@@ -13,9 +13,9 @@ const FeaturesSection = () => {
         <div className='flex flex-wrap mt-10 lg:mt-20'>
           {features.map((item,idx)=>(
               <div key={idx} className='w-full lg:w-1/3 w-1/2'>
-                <div className='flex ma-6 h-10 w-10 p-2 bg-neutral-900 text-indigo-700 justify-center items-center rounded-full'>{item.icon}</div>
+                <div className='flex h-10 w-10 p-2 bg-neutral-900 text-indigo-700 justify-center items-center rounded-full'>{item.icon}</div>
                 <div>
-                  <h5 className='mt01 mb-6 text-xl font-customFontKr'>{item.text}</h5>
+                  <h5 className='mt-1 mb-6 text-xl font-customFontKr'>{item.text}</h5>
                   <p className='text-xs p-2 mb-20 text-neutral-500 '>{item.description}</p>
                 </div>
               </div>

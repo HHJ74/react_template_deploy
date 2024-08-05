@@ -9,7 +9,7 @@ import ScrollToTop from "react-scroll-to-top";
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/react_template_deploy">
       <div className="App">
         <Navbar />
 

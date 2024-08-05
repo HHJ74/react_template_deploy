@@ -1,9 +1,13 @@
 import React from 'react'
+import Detail from './Detail'
 
-const Features = () => {
+
+const index = () => {
   return (
-    <div>Features Page</div>
+    <div>
+     <Detail/>
+    </div>
   )
 }
 
-export default Features
+export default index
